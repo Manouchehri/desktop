@@ -78,7 +78,7 @@
   "jest": {
     "clearMocks": true,
     "moduleDirectories": [
-      "",
+      "src",
       "node_modules"
     ],
     "moduleFileExtensions": [
@@ -176,7 +176,7 @@
     "eslint-plugin-no-only-tests": "2.6.0",
     "eslint-plugin-react": "7.29.4",
     "eslint-plugin-react-hooks": "4.4.0",
-    "jest": "27.5.1",
+    "jest": "29.4.1",
     "jest-junit": "13.1.0",
     "mini-css-extract-plugin": "2.6.0",
     "mmjstool": "github:mattermost/mattermost-utilities#3b4506b0f6b14fbb402f9f8ef932370e459e3773",
